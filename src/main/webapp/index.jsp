@@ -3,7 +3,7 @@
 <title>Demo</title>
 </head>
 <body>
-	<h1>Hello World!
+	<h1>Hello Demo
 	<img src= "https://www.upguard.com/hubfs/apache-tomcat.png" />
 	</h1>
 	<p>
@@ -13,5 +13,5 @@
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
 		
-		<img src= "https://www.tecmint.com/wp-content/uploads/2015/06/Install-Apache-Tomcat-8-in-Linux.png" />
+		
 </body>
